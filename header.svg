@@ -1,0 +1,22 @@
+<svg width="900" height="200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="200" fill="#0d1117"/>
+  <!-- Matrix rain drops -->
+  <text x="20" y="30" font-family="monospace" font-size="11" fill="#00ff4122">01101001</text>
+  <text x="100" y="55" font-family="monospace" font-size="11" fill="#00ff4118">10110010</text>
+  <text x="200" y="20" font-family="monospace" font-size="11" fill="#00ff411a">01001101</text>
+  <text x="320" y="45" font-family="monospace" font-size="11" fill="#00ff4115">11010011</text>
+  <text x="450" y="25" font-family="monospace" font-size="11" fill="#00ff4120">00110101</text>
+  <text x="580" y="50" font-family="monospace" font-size="11" fill="#00ff411a">10101010</text>
+  <text x="700" y="30" font-family="monospace" font-size="11" fill="#00ff4118">01100110</text>
+  <text x="820" y="45" font-family="monospace" font-size="11" fill="#00ff4115">11001100</text>
+  <text x="60" y="170" font-family="monospace" font-size="11" fill="#00ff4112">10011001</text>
+  <text x="750" y="175" font-family="monospace" font-size="11" fill="#00ff4112">01010101</text>
+  <!-- Prompt -->
+  <text x="40" y="85" font-family="monospace" font-size="14" fill="#00ff41">root@kaushik:~# cat README.md</text>
+  <!-- Name -->
+  <text x="40" y="135" font-family="monospace" font-size="36" font-weight="bold" fill="#00ff41">&gt; Kaushik Krishna Goundar</text>
+  <!-- Subtitle -->
+  <text x="42" y="168" font-family="monospace" font-size="14" fill="#cccccc">Cybersecurity Enthusiast  |  Problem Solver  |  Lifelong Learner</text>
+  <!-- Bottom border -->
+  <line x1="40" y1="185" x2="860" y2="185" stroke="#00ff41" stroke-width="1" opacity="0.4"/>
+</svg>

@@ -1,0 +1,35 @@
+<svg width="900" height="230" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="230" fill="#0d1117"/>
+
+  <!-- Terminal window chrome -->
+  <rect x="40" y="10" width="820" height="210" rx="8" fill="#111111" stroke="#333333" stroke-width="1"/>
+  <!-- Top bar -->
+  <rect x="40" y="10" width="820" height="32" rx="8" fill="#1a1a1a"/>
+  <rect x="40" y="30" width="820" height="12" fill="#1a1a1a"/>
+  <!-- Traffic lights -->
+  <circle cx="68" cy="26" r="6" fill="#ff5f57"/>
+  <circle cx="90" cy="26" r="6" fill="#ffbd2e"/>
+  <circle cx="112" cy="26" r="6" fill="#28ca41"/>
+  <!-- Title -->
+  <text x="370" y="31" font-family="monospace" font-size="12" fill="#666666">terminal</text>
+
+  <!-- Prompt -->
+  <text x="65" y="75" font-family="monospace" font-size="13" fill="#00ff41">root@kaushik:~# </text>
+  <text x="238" y="75" font-family="monospace" font-size="13" fill="#cccccc">cat what_i_enjoy.txt</text>
+
+  <!-- Items -->
+  <text x="65" y="103" font-family="monospace" font-size="13" fill="#00ff41">&gt; </text>
+  <text x="83" y="103" font-family="monospace" font-size="13" fill="#cccccc">Threat hunting and incident analysis</text>
+
+  <text x="65" y="126" font-family="monospace" font-size="13" fill="#00ff41">&gt; </text>
+  <text x="83" y="126" font-family="monospace" font-size="13" fill="#cccccc">Automating tasks to improve efficiency</text>
+
+  <text x="65" y="149" font-family="monospace" font-size="13" fill="#00ff41">&gt; </text>
+  <text x="83" y="149" font-family="monospace" font-size="13" fill="#cccccc">Building secure and efficient solutions</text>
+
+  <text x="65" y="172" font-family="monospace" font-size="13" fill="#00ff41">&gt; </text>
+  <text x="83" y="172" font-family="monospace" font-size="13" fill="#cccccc">Learning new technologies daily</text>
+
+  <text x="65" y="195" font-family="monospace" font-size="13" fill="#00ff41">&gt; </text>
+  <text x="83" y="195" font-family="monospace" font-size="13" fill="#cccccc">Solving real-world problems</text>
+</svg>

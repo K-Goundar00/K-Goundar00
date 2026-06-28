@@ -1,0 +1,15 @@
+<svg width="900" height="175" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="175" fill="#0d1117"/>
+  <!-- Items -->
+  <text x="40" y="45" font-family="monospace" font-size="16" fill="#00ff41">🎓</text>
+  <text x="75" y="45" font-family="monospace" font-size="13" fill="#cccccc">Bachelor of Networks &amp; Security (Graduated)</text>
+
+  <text x="40" y="83" font-family="monospace" font-size="16" fill="#00ff41">🖥️</text>
+  <text x="75" y="83" font-family="monospace" font-size="13" fill="#cccccc">Strong interest in Security Operations, Threat Analysis &amp; Infrastructure</text>
+
+  <text x="40" y="121" font-family="monospace" font-size="16" fill="#00ff41">🔍</text>
+  <text x="75" y="121" font-family="monospace" font-size="13" fill="#cccccc">Always exploring new tools, techniques, and technologies</text>
+
+  <text x="40" y="159" font-family="monospace" font-size="16" fill="#00ff41">🤝</text>
+  <text x="75" y="159" font-family="monospace" font-size="13" fill="#cccccc">Open to collaborate on security projects and tools</text>
+</svg>

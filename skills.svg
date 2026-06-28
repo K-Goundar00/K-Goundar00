@@ -1,0 +1,65 @@
+<svg width="900" height="310" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="310" fill="#0d1117"/>
+
+  <!-- Title -->
+  <text x="40" y="38" font-family="monospace" font-size="15" font-weight="bold" fill="#00ff41">🔧 SKILLS_AND_TOOLS</text>
+  <line x1="40" y1="48" x2="860" y2="48" stroke="#00ff41" stroke-width="0.5" opacity="0.3"/>
+
+  <!-- Row 1 -->
+  <!-- Card 1 -->
+  <rect x="40" y="62" width="195" height="52" rx="5" fill="#0d1117" stroke="#00ff41" stroke-width="1" opacity="0.9"/>
+  <rect x="40" y="62" width="195" height="52" rx="5" fill="#00ff410a"/>
+  <text x="65" y="93" font-family="monospace" font-size="13" fill="#cccccc">🛡️  Network Security</text>
+
+  <!-- Card 2 -->
+  <rect x="248" y="62" width="195" height="52" rx="5" fill="#0d1117" stroke="#00ff41" stroke-width="1" opacity="0.9"/>
+  <rect x="248" y="62" width="195" height="52" rx="5" fill="#00ff410a"/>
+  <text x="273" y="93" font-family="monospace" font-size="13" fill="#cccccc">🪟  Windows / Linux</text>
+
+  <!-- Card 3 -->
+  <rect x="456" y="62" width="195" height="52" rx="5" fill="#0d1117" stroke="#00ff41" stroke-width="1" opacity="0.9"/>
+  <rect x="456" y="62" width="195" height="52" rx="5" fill="#00ff410a"/>
+  <text x="481" y="93" font-family="monospace" font-size="13" fill="#cccccc">📊  SIEM (Splunk)</text>
+
+  <!-- Card 4 -->
+  <rect x="664" y="62" width="196" height="52" rx="5" fill="#0d1117" stroke="#00ff41" stroke-width="1" opacity="0.9"/>
+  <rect x="664" y="62" width="196" height="52" rx="5" fill="#00ff410a"/>
+  <text x="689" y="93" font-family="monospace" font-size="13" fill="#cccccc">🔐  Vulnerability Mgmt.</text>
+
+  <!-- Row 2 -->
+  <rect x="40" y="128" width="195" height="52" rx="5" fill="#0d1117" stroke="#00ff41" stroke-width="1" opacity="0.9"/>
+  <rect x="40" y="128" width="195" height="52" rx="5" fill="#00ff410a"/>
+  <text x="65" y="159" font-family="monospace" font-size="13" fill="#cccccc">🔥  Firewall (FortiGate)</text>
+
+  <rect x="248" y="128" width="195" height="52" rx="5" fill="#0d1117" stroke="#00ff41" stroke-width="1" opacity="0.9"/>
+  <rect x="248" y="128" width="195" height="52" rx="5" fill="#00ff410a"/>
+  <text x="273" y="159" font-family="monospace" font-size="13" fill="#cccccc">🛡️  Endpoint Security</text>
+
+  <rect x="456" y="128" width="195" height="52" rx="5" fill="#0d1117" stroke="#00ff41" stroke-width="1" opacity="0.9"/>
+  <rect x="456" y="128" width="195" height="52" rx="5" fill="#00ff410a"/>
+  <text x="481" y="159" font-family="monospace" font-size="13" fill="#cccccc">🐍  Python</text>
+
+  <rect x="664" y="128" width="196" height="52" rx="5" fill="#0d1117" stroke="#00ff41" stroke-width="1" opacity="0.9"/>
+  <rect x="664" y="128" width="196" height="52" rx="5" fill="#00ff410a"/>
+  <text x="689" y="159" font-family="monospace" font-size="13" fill="#cccccc">⚡  PowerShell</text>
+
+  <!-- Row 3 -->
+  <rect x="40" y="194" width="195" height="52" rx="5" fill="#0d1117" stroke="#00ff41" stroke-width="1" opacity="0.9"/>
+  <rect x="40" y="194" width="195" height="52" rx="5" fill="#00ff410a"/>
+  <text x="65" y="225" font-family="monospace" font-size="13" fill="#cccccc">🐚  Bash</text>
+
+  <rect x="248" y="194" width="195" height="52" rx="5" fill="#0d1117" stroke="#00ff41" stroke-width="1" opacity="0.9"/>
+  <rect x="248" y="194" width="195" height="52" rx="5" fill="#00ff410a"/>
+  <text x="273" y="225" font-family="monospace" font-size="13" fill="#cccccc">🦈  Wireshark</text>
+
+  <rect x="456" y="194" width="195" height="52" rx="5" fill="#0d1117" stroke="#00ff41" stroke-width="1" opacity="0.9"/>
+  <rect x="456" y="194" width="195" height="52" rx="5" fill="#00ff410a"/>
+  <text x="481" y="225" font-family="monospace" font-size="13" fill="#cccccc">🔭  Nmap</text>
+
+  <rect x="664" y="194" width="196" height="52" rx="5" fill="#0d1117" stroke="#00ff41" stroke-width="1" opacity="0.9"/>
+  <rect x="664" y="194" width="196" height="52" rx="5" fill="#00ff410a"/>
+  <text x="689" y="225" font-family="monospace" font-size="13" fill="#cccccc">💻  Virtualization</text>
+
+  <!-- Bottom line -->
+  <line x1="40" y1="268" x2="860" y2="268" stroke="#00ff41" stroke-width="0.5" opacity="0.3"/>
+</svg>
