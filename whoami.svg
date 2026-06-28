@@ -1,8 +1,0 @@
-<svg width="900" height="100" xmlns="http://www.w3.org/2000/svg">
-  <rect width="900" height="100" fill="#0d1117"/>
-  <rect x="40" y="10" width="820" height="75" rx="6" fill="#0a1a0a" stroke="#00ff41" stroke-width="1"/>
-  <text x="65" y="45" font-family="monospace" font-size="13" fill="#00ff41">root@kaushik:~# </text>
-  <text x="238" y="45" font-family="monospace" font-size="13" fill="#00ff8855">whoami</text>
-  <text x="65" y="70" font-family="monospace" font-size="13" fill="#cccccc">&gt; Defender. Learner. Builder.</text>
-  <rect x="390" y="57" width="9" height="16" fill="#00ff41" opacity="0.9"/>
-</svg>
