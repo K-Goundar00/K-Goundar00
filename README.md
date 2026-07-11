@@ -82,7 +82,7 @@
 <h1>🛡️ Defender | Learner | Builder 🛡️</h1>
 
 <!-- GitHub Stats — replace YOUR_USERNAME with your actual GitHub username -->
-<img src="https://miro.medium.com/1*x0AIPp-eimRlOxkxzVB6sw.gif" width="450">
+<img src="https://miro.medium.com/1*x0AIPp-eimRlOxkxzVB6sw.gif" width="48%">
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=K-Goundar00&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9" width="48%"/>-->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=K-Goundar00&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" width="48%"/>
 
